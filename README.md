@@ -5,7 +5,7 @@ To write a python program for getting the word count from the contents of a file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1:: Import sys module to use command line arguments.
+### Step 1: Import sys module to use command line arguments.
 ### Step 2: Use the open() by getting the file name with "sys.argv[1]" which means the first index of given
 argument
 ### Step 3: Iterate the content of the file using for loop.
